@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c" icon="Search.png" search="stm">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="SPARKCORE_v1" modelIndex="85410066" path="C:/Program Files (x86)/fritzing.0.9.2b.64.pc/pdb/core/SPARKCORE_v1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="22b3bd892734fe28cfbcd54edd4c2a6a" modelIndex="85410067" path="C:/Program Files (x86)/fritzing.0.9.2b.64.pc/pdb/core/STM32F103.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="EasyDriver_v44" modelIndex="85410069" path="C:/Program Files (x86)/fritzing.0.9.2b.64.pc/pdb/core/EasyDriver_v44.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-STM811-" modelIndex="85410070" path="C:/Program Files (x86)/fritzing.0.9.2b.64.pc/pdb/core/sparkfun-digitalic-stm811-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Sensors-FC30-SMD" modelIndex="85410072" path="C:/Program Files (x86)/fritzing.0.9.2b.64.pc/pdb/core/sparkfun-sensors-fc30-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="STM32_Nucleo_board" modelIndex="85410074" path="C:/Program Files (x86)/fritzing.0.9.2b.64.pc/pdb/core/STM32_Nucleo_board.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7e3598758afd7c1363215b7f0c124af8" modelIndex="85410076" path="C:/Program Files (x86)/fritzing.0.9.2b.64.pc/pdb/core/Digital_Panel_Meter__Voltage__DMS_20PC.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Frode_3fbd71bd2aded84aad94c91d960efcc1_1" modelIndex="85410078" path="C:/Program Files (x86)/fritzing.0.9.2b.64.pc/pdb/core/Frode_1.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Netduino_plus_2" modelIndex="85410080" path="C:/Program Files (x86)/fritzing.0.9.2b.64.pc/pdb/core/NetduinoPlus2.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

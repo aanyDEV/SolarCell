@@ -1,0 +1,2 @@
+copas isi dari "Fritzing"
+ke "C:\Users\[Nama User]\AppData\Roaming\Fritzing\bins"
